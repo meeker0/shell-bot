@@ -1,14 +1,4 @@
 {
   "name": "parkour-shell",
-  "repository": "https://github.com/denomparkour/shell-bot",
-
-"env": {
-  "authToken": {
-   "description": "Auth Token",
-   "value": ""
-               },
-  "owner": {
-   "description": "TG owner ID",
-   "value": ""
-           }
+  "repository": "https://github.com/denomparkour/shell-bot"
 }
