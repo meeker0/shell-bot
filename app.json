@@ -3,7 +3,7 @@
   "repository": "https://github.com/denomparkour/shell-bot"
 },
 
- "authToken": {
+"env": {
   "authToken": {
    "description": "Auth Token",
    "value": ""
@@ -12,5 +12,5 @@
   "owner": {
    "description": "TG owner ID",
    "value": ""
-  },
+  }
 }
