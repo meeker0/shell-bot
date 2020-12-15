@@ -1,4 +1,4 @@
 {
-    "authToken": "${{ secrets.auth_token }}", 
-    "owner": ${{ secrets.owner }}
+    "authToken": "", 
+    "owner":
 }
